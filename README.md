@@ -25,6 +25,7 @@
 ### 1. Клонируй репозиторий
 
 git clone https://github.com/remembermewho/coffee-sales-analysis
+
 cd coffee-sales-analysis
 
 ### 2. Создай виртуальное окружение 
