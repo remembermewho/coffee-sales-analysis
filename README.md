@@ -25,6 +25,7 @@
 ### 1. Клонируй репозиторий
 
 git clone https://github.com/remembermewho/coffee-sales-analysis
+
 cd coffee-sales-analysis
 
 ### 2. Создай виртуальное окружение 
@@ -34,6 +35,7 @@ python -m venv .venv
 ### 3. Активируй окружение
 
 Windows: .venv\Scripts\activate
+
 Mac/Linux: source .venv/bin/activate
 
 ### 4. Установи зависимости
