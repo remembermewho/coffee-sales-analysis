@@ -1,0 +1,35 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Кэш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Файлы Jupyter
+.ipynb_checkpoints/
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.code-workspace
+
+# Секреты (на будущее)
+.env
+*.env
+
+# Файлы данных
+data/*.xlsx
+data/*.csv
+
+# Визуализации
+visuals/*.png
+
+# Системные файлы Windows/macOS
+.DS_Store
+Thumbs.db
