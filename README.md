@@ -35,6 +35,7 @@ python -m venv .venv
 ### 3. Активируй окружение
 
 Windows: .venv\Scripts\activate
+
 Mac/Linux: source .venv/bin/activate
 
 ### 4. Установи зависимости
