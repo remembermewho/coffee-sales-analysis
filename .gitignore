@@ -24,11 +24,14 @@ __pycache__/
 *.env
 
 # Файлы данных
-data/*.xlsx
-data/*.csv
+# Исключить все файлы в папках data и visuals
+data/*
+visuals/*
 
-# Визуализации
-visuals/*.png
+# Но оставить сами папки
+!data/.gitkeep
+!visuals/.gitkeep
+
 
 # Системные файлы Windows/macOS
 .DS_Store
